@@ -34,5 +34,5 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "Daily commit"
+          git commit -m "Daily commit by 23f2001281@ds.study.iitm.ac.in"
           git push
